@@ -1,0 +1,5 @@
+e:\users\fgalindoa\documents\visual studio 2013\Projects\ConversorNumeroALetras\ConversorNumeroALetras\obj\Debug\ConversorNumeroALetras.csprojResolveAssemblyReference.cache
+e:\users\fgalindoa\documents\visual studio 2013\Projects\ConversorNumeroALetras\ConversorNumeroALetras\bin\Debug\ConversorNumeroALetras.exe
+e:\users\fgalindoa\documents\visual studio 2013\Projects\ConversorNumeroALetras\ConversorNumeroALetras\bin\Debug\ConversorNumeroALetras.pdb
+e:\users\fgalindoa\documents\visual studio 2013\Projects\ConversorNumeroALetras\ConversorNumeroALetras\obj\Debug\ConversorNumeroALetras.exe
+e:\users\fgalindoa\documents\visual studio 2013\Projects\ConversorNumeroALetras\ConversorNumeroALetras\obj\Debug\ConversorNumeroALetras.pdb
