@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Models\Constantes.cs" />
+    <Compile Include="Models\Conversor.cs" />
     <Compile Include="Models\ConvertNumberToString.cs" />
     <Compile Include="Models\Diccionario.cs" />
     <Compile Include="Program.cs" />
